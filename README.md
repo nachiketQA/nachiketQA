@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nachiket
-- Senior QA Lead  
+- Senior QA Manager
 
 <!---
 nachiketQA/nachiketQA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
